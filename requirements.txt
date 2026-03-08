@@ -2,3 +2,12 @@ pandas
 numpy
 openpyxl
 jupyterlab
+pytest
+scipy
+matplotlib
+seaborn
+jupyterlab_code_formatter
+black
+isort
+autopep8
+yapf
